@@ -1,4 +1,4 @@
-# Projectile-Motion
+# ⚽Projectile-Motion
 the repository contains use of tkinter class of python,
 i have created a GUI project using python tkinter class, 
 and also a simple user authentication window,
